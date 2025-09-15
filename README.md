@@ -18,7 +18,7 @@ The chatbot integrates several features to enhance customer experience:
 
 - **🤝 Recommendation System (Pre-Built)**  
   Offers personalized product recommendations to customers.  
-  *(This recommendation logic was pre-developed and integrated here. You can check the standalone project [here]([link-to-repo](https://github.com/Ahmed482-21albadawy/Product_Recommendation_model))).*
+  *(This recommendation logic was pre-developed and integrated here. You can check the standalone project [here](https://github.com/Ahmed482-21albadawy/Product_Recommendation_model)).*
 
 - **💬 Customer Feedback with Sentiment Analysis**  
   After a few interactions, the chatbot asks for customer feedback and applies sentiment analysis to respond meaningfully.
