@@ -1,0 +1,51 @@
+ProductID,ProductName,Category,Weight_Volume,Shelf_Life,Date,Price,Description
+1,Milk,Dairy,1L,Perishable,1/1/2022,28.2,"Fresh and creamy milk, rich in calcium for strong bones."
+2,Cheese Cheddar,Dairy,500g,Perishable,1/1/2022,152.84,"Aged cheddar cheese with a sharp, tangy flavor."
+3,Yogurt,Dairy,500g,Perishable,1/1/2022,10.22,"Smooth and creamy yogurt, perfect for breakfast or snacks."
+4,Butter,Dairy,250g,Perishable,1/1/2022,90.57,"Pure, rich butter ideal for cooking, baking, and spreading."
+5,Cream,Dairy,200ml,Perishable,1/1/2022,50.33,"Thick, fresh cream for cooking or desserts."
+6,Mozzarella,Dairy,300g,Perishable,1/1/2022,172.08,"Soft and stretchy mozzarella cheese, great for pizzas."
+7,Ice Cream,Dairy,400g,Perishable,1/1/2022,35,Delicious frozen dessert available in multiple flavors.
+8,Almond Milk,Dairy,1L,Perishable,1/1/2022,68.78,"Dairy-free almond milk, light and nutritious."
+9,Condensed Milk,Dairy,1L,Non-Perishable,1/1/2022,34.15,Sweetened condensed milk for desserts and beverages.
+10,Whipping Cream,Dairy,500ml,Perishable,1/1/2022,53.2,Light cream that whips into fluffy topping for cakes.
+11,Coca Cola,Beverages,500ml,Non-Perishable,1/1/2022,13.46,Classic fizzy soft drink with a refreshing taste.
+12,Pepsi,Beverages,500ml,Non-Perishable,1/1/2022,14.45,"Popular cola beverage with a bold, sweet flavor."
+13,Orange Juice,Beverages,1L,Perishable,1/1/2022,24.97,"Freshly squeezed orange juice, rich in vitamin C."
+14,Apple Juice,Beverages,1L,Perishable,1/1/2022,26.25,Sweet and crisp juice made from fresh apples.
+15,Mineral Water,Beverages,500ml,Non-Perishable,1/1/2022,2.87,"Pure, refreshing bottled mineral water."
+16,Iced Coffee,Beverages,500g,Perishable,1/1/2022,34.14,"Chilled coffee drink with a bold, refreshing taste."
+17,Green Tea,Beverages,200g,Non-Perishable,1/1/2022,20.84,Healthy green tea with natural antioxidants.
+18,Energy Drink,Beverages,250ml,Non-Perishable,1/1/2022,31.48,Boosts energy and focus with caffeine and vitamins.
+19,Lemonade,Beverages,1L,Perishable,1/1/2022,15.33,Refreshing lemon drink with a sweet and tangy flavor.
+20,Iced Tea,Beverages,1L,Perishable,1/1/2022,17.5,"Chilled tea beverage, lightly sweetened and refreshing."
+21,Potato Chips,Snacks,200g,Non-Perishable,1/1/2022,9.79,"Crispy, salty potato chips perfect for snacking."
+22,Chocolate Bar,Snacks,100g,Non-Perishable,1/1/2022,20.62,Sweet milk chocolate bar for instant energy.
+23,Cookies,Snacks,300g,Non-Perishable,1/1/2022,30.32,Crunchy cookies with a rich buttery taste.
+24,Popcorn,Snacks,150g,Non-Perishable,1/1/2022,10.27,"Light and fluffy popcorn, perfect for movie time."
+25,Pretzels,Snacks,200g,Non-Perishable,1/1/2022,12.32,Crunchy salted pretzels for a quick snack.
+26,Donuts,Snacks,200g,Non-Perishable,1/1/2022,15.66,"Soft, sweet donuts glazed with sugar or chocolate."
+27,Crackers,Snacks,300g,Non-Perishable,1/1/2022,18.05,"Crisp and light crackers, great with cheese or dips."
+28,Nuts Mixed,Snacks,500g,Non-Perishable,1/1/2022,199.34,Healthy mix of roasted nuts full of protein.
+29,Dried Fruit,Snacks,400g,Non-Perishable,1/1/2022,151.11,Naturally sweet dried fruits for a healthy snack.
+30,Rice Cakes,Snacks,200g,Non-Perishable,1/1/2022,19.46,"Light and crunchy rice cakes, low in calories."
+31,Apples,Fruits,1kg,Perishable,1/1/2022,19.53,"Crisp and juicy apples, rich in fiber."
+32,Bananas,Fruits,1kg,Perishable,1/1/2022,17.45,Sweet bananas packed with potassium and energy.
+33,Oranges,Fruits,1kg,Perishable,1/1/2022,14.45,Juicy oranges full of vitamin C.
+34,Grapes,Fruits,1kg,Perishable,1/1/2022,31.47,"Sweet and refreshing grapes, perfect for snacking."
+35,Strawberries,Fruits,500g,Perishable,1/1/2022,38.36,"Fresh, sweet strawberries rich in antioxidants."
+36,Blueberries,Fruits,500g,Perishable,1/1/2022,59.11,"Small, juicy blueberries packed with vitamins."
+37,Pineapple,Fruits,1kg,Perishable,1/1/2022,28.58,Tropical pineapple with a sweet and tangy taste.
+38,Mango,Fruits,1kg,Perishable,1/1/2022,40.42,"Juicy and sweet mangoes, full of tropical flavor."
+39,Watermelon,Fruits,5kg,Perishable,1/1/2022,29.93,"Refreshing watermelon, perfect for hot days."
+40,Peaches,Fruits,1kg,Perishable,1/1/2022,25.81,Sweet and soft peaches with a fragrant aroma.
+41,Tomatoes,Vegetables,1kg,Perishable,1/1/2022,10.45,"Fresh, ripe tomatoes full of flavor."
+42,Potatoes,Vegetables,1kg,Perishable,1/1/2022,8.22,"Versatile potatoes for fries, mash, or roasting."
+43,Carrots,Vegetables,1kg,Perishable,1/1/2022,8.32,Crunchy carrots rich in vitamin A.
+44,Lettuce,Vegetables,1kg,Perishable,1/1/2022,7.17,"Fresh, crisp lettuce for salads and sandwiches."
+45,Onions,Vegetables,1kg,Perishable,1/1/2022,6.81,"Strong-flavored onions, perfect for cooking."
+46,Cucumbers,Vegetables,1kg,Perishable,1/1/2022,8.34,Cool and refreshing cucumbers for salads.
+47,Bell Peppers,Vegetables,1kg,Perishable,1/1/2022,20.29,Colorful bell peppers with a sweet crunch.
+48,Garlic,Vegetables,1kg,Perishable,1/1/2022,29.8,Strong and aromatic garlic for flavoring dishes.
+49,Eggplant,Vegetables,500g,Perishable,1/1/2022,12.38,Soft and versatile eggplant for cooking.
+50,Green Onion,Vegetables,1kg,Perishable,1/1/2022,4.79,Fresh green onions for garnishing and cooking.
